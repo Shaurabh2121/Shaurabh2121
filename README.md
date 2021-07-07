@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shaurabh Kumar</h1>
 <h3 align="center">A passionate Android developer</h3>
 
+- 🌱 I’m currently learning **Android development**
+
+- 💬 Ask me about **Application development**
+
 - 📫 How to reach me **shaurabhkumar2121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
