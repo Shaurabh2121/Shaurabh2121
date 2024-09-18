@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shaurabh </h1>
+<h1 align="center">Hi 👋, I'm Shaurabh Kumar</h1>
 <h3 align="center">A passionate Android developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently working as **Android developer at A23.com**
 
 - 💬 Ask me about **Application development**
 
