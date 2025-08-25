@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently working as **SDE-3 (Android Developer) at A23.com**
-- 💡 Skilled in **Kotlin, Java, Jetpack Compose, Coroutines, MVVM, Firebase, Retrofit, Dagger**
-- ⚡ Passionate about **building scalable apps, modularization, and improving performance**
-- 💬 Ask me about **Android development, Jetpack Compose, and app performance optimization**
-- 📫 Reach me at **shaurabhkumar2121@gmail.com**
+- 🌱 I’m currently working as **SDE-3 (Android Developer) at A23.com**  
+- 💡 Skilled in **Kotlin, Java, Jetpack Compose, Coroutines, MVVM, Firebase, Retrofit, Dagger**  
+- ⚡ Passionate about **building scalable apps, modularization, and improving performance**  
+- 💬 Ask me about **Android development, Jetpack Compose, and app performance optimization**  
+- 📫 Reach me at **shaurabhkumar2121@gmail.com**  
 
 ---
 
@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/shaurabh-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaurabh" height="30" width="40" /></a>
 <a href="https://github.com/Shaurabh2121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="shaurabh" height="30" width="40" /></a>
+<a href="https://medium.com/@shaurabhkumar2121" target="blank"><img align="center" src="https://logos-world.net/wp-content/uploads/2023/07/Medium-Logo.jpg" alt="shaurabh-medium" height="30" width="40" /></a>
 </p>
 
 ---
